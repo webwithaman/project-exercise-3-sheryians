@@ -8,4 +8,4 @@
 
 ### Live Demo
 
-You can see a live Demo of this Website (https://desgined-blog-website.netlify.app/)
+You can see a live demo of this website (https://desgined-blog-website.netlify.app/)
